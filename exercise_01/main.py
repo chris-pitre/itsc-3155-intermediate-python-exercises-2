@@ -1,3 +1,7 @@
+# Chris Pitre
+# Intermediate Python Exercises 2
+# Exercise 1
+
 import BankAccount
 
 account1 = BankAccount.BankAccount("Chris", 1000)
