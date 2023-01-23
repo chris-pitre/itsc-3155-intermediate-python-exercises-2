@@ -1,3 +1,7 @@
+# Chris Pitre
+# Intermediate Python Exercises 2
+# Exercise 3
+
 import numpy as np
 
 rng = np.random.default_rng()
